@@ -1,0 +1,34 @@
+body {
+  background: #f1bebe;
+}
+
+.form {
+  padding: 15px;
+  background: #a10d88;
+  color: white;
+}
+
+.card-body {
+  background: #e1e2e1;
+}
+
+#creado {
+  background: #440055;
+}
+
+.card {
+  background: transparent !important;
+  border: none !important;
+}
+
+.fa-solid {
+  color: red;
+}
+
+i {
+  cursor: pointer;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
